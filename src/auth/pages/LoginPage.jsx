@@ -21,7 +21,7 @@ export const LoginPage = () => {
               <TextField
                 label="Contraseña"
                 type="password"
-                placeholder="mail@example.com"
+                placeholder="Contraseña"
                 fullWidth
               />
             </Grid>

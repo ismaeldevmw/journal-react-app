@@ -5,7 +5,7 @@ import { AuthLayout } from '../layout/AuthLayout';
 
 export const RegisterPage = () => {
   return (
-    <AuthLayout title="Inscribirse">
+    <AuthLayout title="Crear cuenta">
         <form>
           <Grid container>
 
@@ -13,7 +13,7 @@ export const RegisterPage = () => {
               <TextField
                 label="Nombre completo"
                 type="text"
-                placeholder="Ismael López"
+                placeholder="Tu nombre y apellido"
                 fullWidth
               />
             </Grid>
