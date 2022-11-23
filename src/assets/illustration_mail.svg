@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>illustration_mail</title>
+    <defs>
+        <radialGradient cx="53.846084%" cy="18.8063934%" fx="53.846084%" fy="18.8063934%" r="91.4121212%" gradientTransform="translate(0.538461,0.188064),scale(0.735294,1.000000),translate(-0.538461,-0.188064)" id="radialGradient-1">
+            <stop stop-color="#32302C" offset="0%"></stop>
+            <stop stop-color="#5F5D59" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="42.8048218%" cy="16.9417628%" fx="42.8048218%" fy="16.9417628%" r="82.5762462%" gradientTransform="translate(0.428048,0.169418),scale(0.761194,1.000000),translate(-0.428048,-0.169418)" id="radialGradient-2">
+            <stop stop-color="#797573" offset="0%"></stop>
+            <stop stop-color="#B3AFAB" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="illustration_mail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mail-/-Basic-/-General-/-Dark">
+            <g id="EV-NoMail-Color" transform="translate(0.750000, 2.250000)">
+                <path d="M116.751153,12.4312384 L54.0568087,0.0664564793 C52.3884718,-0.279411546 50.8079422,0.758192529 50.5445205,2.40106565 L42.8174865,40.3600814 C42.4662577,42.0029545 43.5199442,43.5593606 45.1882811,43.8187616 L107.970432,56.1835435 C109.638769,56.5294115 111.219299,55.4918075 111.482721,53.8489344 L119.209755,15.8899186 C119.473176,14.3335125 118.41949,12.7771064 116.751153,12.4312384 Z" id="Path" fill="url(#radialGradient-1)" fill-rule="nonzero"></path>
+                <path d="M117.32536,12.4586636 L54.774574,0.0664161059 C53.9872215,-0.106902041 53.1123853,0.0664161059 52.5,0.499711474 L80.5822412,35.25 L119.25,13.7585497 C118.812582,13.0652772 118.112713,12.6319818 117.32536,12.4586636 Z" id="Path" fill="#5F5D59" fill-rule="nonzero"></path>
+                <path d="M100.322983,89.906281 L88.8150171,44.1128925 C88.0243935,41.0599999 84.861899,39.1410388 81.7872515,39.9260684 L4.39398241,59.1156788 C1.31933494,59.9007083 -0.613300607,63.0408264 0.177323027,66.093719 L11.5974422,111.887108 C12.3880658,114.94 15.5505604,116.858961 18.6252078,116.073932 L96.0184769,96.8843212 C99.1809715,96.0992917 101.113607,92.9591736 100.322983,89.906281 Z" id="Path" fill="url(#radialGradient-2)" fill-rule="nonzero"></path>
+                <path d="M53,87 L86.25,40.5978067 C84.9305556,39.81428 83.3472222,39.5531044 81.8518519,39.9013385 L4.35648148,59.0542138 C2.86111111,59.4024479 1.54166667,60.3600917 0.75,61.6659695 L53,87 Z" id="Path" fill="#B3AFAB" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
